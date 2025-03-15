@@ -4,7 +4,7 @@ To conduct a comprehensive analysis of Blinkit's sales performance, customer sat
 ## Dataset Used
 - <a href="https://github.com/VaishnaviKatiyar04/Power-Bi-Dashboard/blob/main/Power%20bi%20Dashboard.pbix">Blinkit Data</a>
 
-## STEPS IN PROJECT
+## STEPS IN PROJECT:
 1. Requirement Gathering/Business Requirements
 2. Data Walkthrough
 3. Data Connection
@@ -16,13 +16,13 @@ To conduct a comprehensive analysis of Blinkit's sales performance, customer sat
 9. Dashboard / Report Development
 10. Insights Generation
 
-## KPI's Requirements
-1. Total Sales : The overall revenue generated fron all items sold.
+## KPI's Requirements:
+1. Total Sales : The overall revenue generated from all items sold.
 2. Average Sales : The average revenue per sales.
 3. Number of Items : The total count of different items sold.
 4. Average Rating : the average customer rating for items sold.
 
-# Charts Requirements 
+# Charts Requirements :
 1. Total sales by Fat Content
 2. Total Sales by Item Type
 3. Fat Content by Outlet for Total Sales
