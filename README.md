@@ -32,4 +32,5 @@ To conduct a comprehensive analysis of Blinkit's sales performance, customer sat
 7. All Metrics by Outlet Type
 
 ## Dashboard 
-![Power BI Dashboard](https://github.com/user-attachments/assets/8715ea0f-f13c-48c6-9761-2597d5f0c8f2)
+![IMG_4976](https://github.com/user-attachments/assets/6dd82269-e822-4753-8d02-8b6eb330c446)
+
